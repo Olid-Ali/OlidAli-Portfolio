@@ -1,4 +1,4 @@
-# Monirules Portfolio
+# Olid's Portfolio
 
 Welcome to my personal portfolio! This website highlights my professional journey, technical projects, and experience in software development. It includes an accessible interface to view my work and resume.
 
